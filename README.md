@@ -52,8 +52,8 @@ Additional analysis of the election show that
   - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
 See the text file printed below:
+
 ![Election Analysis Results](./analysis/Text_File.png)
-![Election Analysis Results](./analysis/election-analysis.txt)
 
 ## Election-Audit Summary
 As long as the CSV file maintains the same formatting, this script can be used for any election with just a couple of modifications.
